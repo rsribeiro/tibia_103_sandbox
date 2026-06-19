@@ -62,6 +62,8 @@ I built the map by using Remere's Map Editor ("RME") using Tibia 8.60 graphics. 
 
 Link to Tibia 8.60 (required to get the Tibia.dat and Tibia.spr files for RME): https://mega.nz/#!WfA1kKwT!oH9hLUQEafAtWtzJJrd3gnn2TN383qpqQfrp7qqLbC0
 
+You will find the map in OTBM format in "map-converter/map.otbm".
+
 If you choose to edit the map using Remere's Map Editor, you will need to convert it from OTBM (OpenTibia format) to JSON using the included "map-converter". That one is a Node.js app, so you will also need to install Node.js.
 ```
 node convert.mjs
