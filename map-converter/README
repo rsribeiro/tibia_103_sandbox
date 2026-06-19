@@ -1,0 +1,4 @@
+1) Create a map using Remere's Map Editor using Tibia 8.60
+2) Take the map file ("map.otbm") and convert it to JSON using this script.
+    $ node convert.mjs
+3) You will find the converted map ("map.json") in this directory. Place it inside the "server" directory.
